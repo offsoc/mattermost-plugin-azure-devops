@@ -8,8 +8,8 @@ require (
 	github.com/google/uuid v1.3.0
 	github.com/gorilla/mux v1.8.0
 	github.com/mattermost/mattermost-plugin-api v0.0.27
-	github.com/mattermost/mattermost-server/v5 v5.37.9
+	github.com/mattermost/mattermost-server/v5 v5.39.0
 	github.com/pkg/errors v0.9.1
 	github.com/stretchr/testify v1.8.2
-	golang.org/x/text v0.3.7
+	golang.org/x/text v0.3.8
 )
